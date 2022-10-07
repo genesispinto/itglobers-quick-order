@@ -1,0 +1,24 @@
+.container {
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 25rem;
+    border: 1px solid #57280A;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #954613;
+}
+
+.input {
+    height: 30px;
+    width: 150px;
+    border-color: #57280A;
+}
+
+.btnAddToCart {
+    background-color: #57280A;
+    border-color: #57280A;
+    color: white;
+    height: 30px;
+}
